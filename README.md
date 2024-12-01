@@ -1,8 +1,7 @@
-# 👋 Hi, I’m Hamza Slama (@Green-DataX)  
+# 👋 Hi, I’m Hamza (@Green-DataX)  
 ### About Me 
-- 🌍 Data Analyst Engineer, passionate about leveraging data science and analytics to drive sustainable energy solutions.
-- 💼 Experienced in working with wind turbine (éolien) and photovoltaic (PV) data to generate insights and optimize systems.
-- ⚡ My expertise lies in analyzing SCADA data, building predictive models, and developing dashboards for renewable energy systems.
+- 🌍 Data Analyst Engineer, passionate about leveraging data science to drive sustainable energy solutions.
+- 💼 Experienced in working with wind turbine and photovoltaic data to generate insights and optimize systems.
 ### 👀 Interests  
 - Data Science & Analytics 📊  
 - Renewable Energy 🌞💨  
